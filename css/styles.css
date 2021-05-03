@@ -570,7 +570,6 @@ header .link, .logo-list {
 }
 
 .portfolio-link-text {
-    opacity: 0;
     position: absolute;
     transform: translateY(0);
     font-size: 18px;
@@ -588,7 +587,6 @@ header .link, .logo-list {
 
 .portfolio-link:hover .portfolio-link-text {
     transform: translateY(-100%);
-    opacity: 1;
 }
 
 .list-pic-items {
